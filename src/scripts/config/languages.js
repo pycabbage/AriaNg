@@ -6,6 +6,10 @@
             name: 'English',
             displayName: 'English'
         },
+        'jp': {
+            name: 'Japanese',
+            displayName: '日本語'
+        },
         'zh_Hans': {
             name: 'Simplified Chinese',
             displayName: '简体中文',

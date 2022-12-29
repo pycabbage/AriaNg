@@ -340,6 +340,7 @@ checksum.failed=文件校验失败.
 
 [languages]
 English=英语
+Japanese=日语
 Simplified Chinese=简体中文
 Traditional Chinese=繁体中文
 
